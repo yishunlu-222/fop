@@ -4,7 +4,7 @@ Official code for  an Oral presentation at AAAI 2026
 **"Beyond the Mean: Fisher-Orthogonal Projection for Natural Gradient Descent in Large Batch Training"**  
 by Yishun Lu, Wes Armour
 
-📄 Full Version: [<link-to-arxiv-or-venue>](https://arxiv.org/abs/2508.13898)
+📄 Full Version: [arXiv:2508.13898](https://arxiv.org/abs/2508.13898)
 
 ---
 
